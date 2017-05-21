@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 
 class mod_test extends ModuleHelper {
 	public function __construct($PMS) {
