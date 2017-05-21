@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 
 class PMSTest extends PHPUnit_Framework_TestCase {
 	public $PMS;

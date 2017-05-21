@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 
 class TempClass {
 	public function printMessage($msg) {
